@@ -1,3 +1,3 @@
-module my_go_project
+module tdd_go
 
 go 1.21.6
